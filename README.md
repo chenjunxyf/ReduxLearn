@@ -8,3 +8,7 @@
 * 单一数据源`state`
 * `state`只读，惟一改变`state`的方法就是触发`action`
 * 使用纯函数来执行修改`(preState, action) => newState`
+
+## 参考
+
+[Redux中文文档](http://camsong.github.io/redux-in-chinese/index.html)
