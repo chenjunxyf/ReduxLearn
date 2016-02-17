@@ -34,4 +34,6 @@
 
 ## 参考
 
-[Redux中文文档](http://camsong.github.io/redux-in-chinese/index.html)
+* [Redux中文文档](http://camsong.github.io/redux-in-chinese/index.html)
+* [redux管理应用](http://www.cnblogs.com/Leo_wl/p/4780750.html)
+* [redux-devtools-extension](https://github.com/zalmoxisus/redux-devtools-extension)
