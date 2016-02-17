@@ -7,7 +7,7 @@
 * 单项数据流
 * 单一数据源`state`
 * `state`只读，惟一改变`state`的方法就是触发`action`
-* 使用纯函数来执行修改`(preState, action) => newState`
+* 使用纯函数`reducer`来执行修改`(preState, action) => newState`
 
 ## 参考
 
